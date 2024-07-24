@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SonarLintProjectSettings">
+    <option name="moduleMapping">
+      <map>
+        <entry key="ai-interview" value="ruoyi" />
+        <entry key="ai-interview-admin" value="ruoyi-admin" />
+        <entry key="ai-interview-common" value="ruoyi-common" />
+        <entry key="ai-interview-framework" value="ruoyi-framework" />
+        <entry key="ai-interview-generator" value="ruoyi-generator" />
+        <entry key="ai-interview-quartz" value="ruoyi-quartz" />
+        <entry key="ai-interview-system" value="ruoyi-system" />
+      </map>
+    </option>
+  </component>
+</project>
